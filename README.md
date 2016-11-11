@@ -5,6 +5,7 @@ Dependencies
 
 1) WampServer<br/>
 2) TreeTagger (Author: Helmut Schmid, CIS, Ludwig-Maximilians-Universität, Germany)<br/>
+http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/<br/>
 3) Perl<br/>
 4) Python
 
