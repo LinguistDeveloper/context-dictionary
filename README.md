@@ -3,9 +3,9 @@ A basic monolingual dictionary (EN) that allows entry lookup by entering a word 
 
 Dependencies
 
-1) WampServer
-2) TreeTagger (Author: Helmut Schmid, CIS, Ludwig-Maximilians-Universität, Germany)
-3) Perl
+1) WampServer<br/>
+2) TreeTagger (Author: Helmut Schmid, CIS, Ludwig-Maximilians-Universität, Germany)<br/>
+3) Perl<br/>
 4) Python
 
 Once dependencies are set up and running, save the execute the MySQL scripts provided and create/populate the DB tables.
