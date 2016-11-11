@@ -1,0 +1,3 @@
+<pair>|VHZ|have<div/>have (vb)</pair>
+<pair>|VBZ|be<div/>be (vb)</pair>
+<pair>|NN|record<div/>record (n)</pair>

@@ -1,0 +1,16 @@
+CREATE DATABASE dictionary DEFAULT CHARACTER SET utf8 COLLATE utf8_bin; 
+
+CREATE TABLE engmono
+	
+  (
+ PK mediumint(5) UNSIGNED NOT NULL AUTO_INCREMENT,
+ 
+lex varchar(100),
+ 
+ entry TEXT,
+ 
+ 
+ PRIMARY KEY (PK)
+ )  ROW_FORMAT=DYNAMIC;
+
+LOAD DATA LOCAL INFILE 'C://wamp/www/rem_dupl_across5/engmono_data.txt' INTO TABLE engmono FIELDS TERMINATED BY '<div/>' LINES STARTING BY '<pair>'  TERMINATED BY '</pair>' (lex, entry);
