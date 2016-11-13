@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict>
+<entry><!--<pair><lex>|VHZ|have</lex><div/>//--><hwblk><hw>have</hw><pos>vb</pos></hwblk><!--<div/>//--><transblk><trans>tener</trans></transblk><!--</pair>//--></entry>
+<entry><hwblk><hw>be</hw><pos>vb</pos></hwblk><transblk><trans>ser</trans><trans>estar</trans></transblk></entry>
+<entry><hwblk><hw>record</hw><pos>n</pos></hwblk><transblk><trans>grabar</trans></transblk></entry>
+</dict>
